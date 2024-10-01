@@ -8,14 +8,14 @@
 
 :root {
     --primary-text-color: #ffffff;
-    --secondary-text-color: #cccccc;
-    --accent-color: #ff6f61; /* Bright accent color */
-    --accent-color-dark: #d9534f; /* Darker shade for hover */
-    --background-color: #121212; /* Dark background for better contrast */
-    --card-background-color: #1e1e1e; /* Slightly lighter card background */
-    --nav-background-color: #1a1a1a; /* Darker navigation bar */
-    --input-background-color: #333333; /* Input field background */
-    --input-border-color: #565656; /* Input field border */
+    --secondary-text-color: #a5d6a7; /* Light green for secondary text */
+    --accent-color: #4caf50; /* Bright green accent color */
+    --accent-color-dark: #388e3c; /* Darker green for hover */
+    --background-color: #2e7d32; /* Dark green background */
+    --card-background-color: #388e3c; /* Slightly lighter green card background */
+    --nav-background-color: #1b5e20; /* Dark green navigation bar */
+    --input-background-color: #66bb6a; /* Green input field background */
+    --input-border-color: #81c784; /* Lighter green for input borders */
 }
 
 body {
@@ -110,7 +110,7 @@ nav {
 }
 
 .news-input::placeholder {
-    color: #aaaaaa;
+    color: #a5d6a7;
 }
 
 .search-button {
